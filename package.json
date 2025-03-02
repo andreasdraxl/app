@@ -34,5 +34,5 @@
   "keywords": ["template", "startpoint"],
   "author": "Andreas Draxl",
   "license": "MIT",
-  "description": ""
+  "description": "simple viewer for IFC files"
 }
