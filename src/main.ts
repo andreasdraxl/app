@@ -179,7 +179,7 @@ const toolbar = BUI.Component.create(() => {
 const leftPanel = BUI.Component.create(() => {
   return BUI.html`
     <bim-tabs switchers-full>
-      <bim-tab name="project" label="Project" icon="ph:building-fill">
+      n
         ${projectInformationPanel}
       </bim-tab>
       <bim-tab name="settings" label="Settings" icon="solar:settings-bold">
